@@ -1,0 +1,77 @@
+h2,h3 {
+	color: #CC0000;
+}
+
+nav ul {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+#holder {
+	width:  585px;
+	float: left;		
+	margin-left: 150px;
+	margin-top: 40px;
+}
+
+aside {
+	height: 450px;
+	width:  300px;
+	float: left;
+	margin-top: 40px;
+	border-left: 1px solid #000;
+	padding-left: 25px;
+
+}
+
+label {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+textarea {
+	width: 508px;
+	border: 1px solid #000;
+}
+
+input[type="submit"]{
+	background-color: #CC0000;
+	color: #fff;
+	border-radius: 5px;
+	padding: 10px;
+	width: 515px;
+	margin-top: 20px;
+	font-weight: bold
+}
+
+input[type="text"] {
+	border: 1px solid #000;
+}
+
+section {
+	height: 500px;
+	padding-bottom: 20px;
+}
+
+.box {
+	float:left;
+	width:288px;
+}
+
+
+#email {
+	width:225px;
+}
+
+
+#phone_style {
+	text-decoration: underline;
+	color: blue;
+}
+
+footer {
+	margin-top: 0;
+}

@@ -1,0 +1,36 @@
+h2 {
+    color: #CC0000;
+    text-align: center;
+}
+
+nav ul {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+#standingbox {
+    float: left;
+    margin-left: 55px;
+    margin-bottom: 30px;
+	margin-top: 20px;
+
+}
+		
+#resultbox {
+    float: right;
+    margin-right: 55px;
+    margin-bottom: 30px;
+	margin-top: 20px;
+}
+	
+.images {
+    border: 2px solid #000;
+}
+		
+#fixtures {
+    text-align: center;
+    clear: both;
+}
+		

@@ -1,0 +1,38 @@
+h2 {
+    color: #CC0000;
+}
+
+nav ul {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+.row {
+    height: 260px;
+    margin-top: 40px;
+}
+
+.toprow {
+    height: 260px;
+    margin-top: 60px;
+}
+
+.entry {
+    width: 1098px;
+    height: 302px;
+}
+
+.entry img {
+    height: 210px;
+    float: left;
+    margin-right: 50px;
+    margin-left: 50px
+}
+
+p {
+    font-size: 1.1em;
+    margin-right: 40px;
+    text-align: justify;
+}

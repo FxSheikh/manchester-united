@@ -1,0 +1,53 @@
+nav ul {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+h2 {
+	text-align: center;
+	color: #CC0000;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+		
+#toprow {
+    height: 302px;
+    margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+.row {
+    height: 302px;
+    margin-top: 40px;
+}
+.entry {
+    width: 366px;
+    float: left;
+    height: 302px;
+}
+
+.entry img {
+    height: 250px;
+    margin: auto;
+}
+
+figure img {
+    margin: auto;
+    display: block;
+}
+figure {
+    margin: 0;
+}
+
+figcaption {
+    font-size: 1.15em;	
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.empty {
+	display: none;
+}
